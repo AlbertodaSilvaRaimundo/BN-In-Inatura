@@ -113,6 +113,24 @@ VERMAIS
 }
 
 /*
+CADASTRE-SE
+*/
+
+#cadastre-se {
+    text-align: none;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20px 20px 20px 20px; 
+}
+
+#cadastre-se a:hover {
+    background-color: black;
+    color: white;
+}
+
+/*
 SOBRE
 */
 
