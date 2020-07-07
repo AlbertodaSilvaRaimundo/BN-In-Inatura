@@ -164,6 +164,17 @@ CONTATO
     text-align: center;
     padding: 20px;
 }
+#contato a {
+    text-decoration: none;
+    border-radius: 2px;
+    color: black;
+}
+
+#contato a:hover {
+    background-color:  black;
+    color: white;
+    
+}
 
 /*
 FOOTER
